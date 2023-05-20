@@ -1,0 +1,11 @@
+.indicator{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap
+}
+
+.textbox {
+  margin-bottom: 1rem;
+}
+
